@@ -27,3 +27,7 @@ footer p {
     color: #666666;
     font-weight: 400;
 }
+
+div h2 {
+    padding: 0.5rem;
+}
